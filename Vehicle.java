@@ -1,4 +1,4 @@
-abstract public class Vehicle {
+public abstract class Vehicle {
 
   /**
   * The starting speed of the car.
